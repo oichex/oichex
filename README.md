@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/ZmT7HSN)
+[![MasterHead](https://drive.google.com/file/d/19150uSXikN_HpfvVK4D6-kAv1SttntjI/view?usp=sharing)
 <h1 align="center">Merhaba 👋, ben Yağız</h1>
 <h3 align="center">full-stack geliştiricisi.</h3>
 
